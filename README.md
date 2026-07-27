@@ -1,4 +1,4 @@
-# Orphex Case Study
+# Case Study
 
 Reklam performans CSV’sini okuyup veritabanına atan, sonra API’den sorgulatan küçük bir proje.
 
